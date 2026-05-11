@@ -1,0 +1,23 @@
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\bin\Debug\SharedDataClasses.dll
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\bin\Debug\SharedDataClasses.pdb
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.TextInputUnderlineNoBoxUC.resources
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\CommonComponents.csproj.GenerateResource.cache
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\CommonComponents.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.dll
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.pdb
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.TextInputUnderlineNoBoxUC.resources
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csproj.GenerateResource.cache
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csprojAssemblyReference.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.TextInputUnderlineNoBoxUC.resources
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csproj.GenerateResource.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\CommonComponents\obj\Debug\CommonComponents.csprojAssemblyReference.cache

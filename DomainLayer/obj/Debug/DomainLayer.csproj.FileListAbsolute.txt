@@ -1,0 +1,11 @@
+C:\Users\marquerg\source\repos\MVPDemo\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache

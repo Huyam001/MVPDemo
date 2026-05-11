@@ -1,0 +1,6 @@
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\bin\Debug\SharedDataClasses.dll
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\bin\Debug\SharedDataClasses.pdb
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.csprojAssemblyReference.cache
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.dll
+C:\Users\marquerg\source\repos\MVPDemo\SharedDataClasses\obj\Debug\SharedDataClasses.pdb

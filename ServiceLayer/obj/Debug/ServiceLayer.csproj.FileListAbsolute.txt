@@ -1,0 +1,26 @@
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\CommonComponents.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\CommonComponents.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\marquerg\source\repos\MVPDemo (Prod)\MVPDemo\ServiceLayer\obj\Debug\ServiceLayer.pdb
